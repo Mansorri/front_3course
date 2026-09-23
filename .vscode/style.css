@@ -70,7 +70,6 @@ td table td {
   padding: 5px;
 }
 
-/* Стилі для 1-го рядка (основний: #118f8f, при ховері стає жовтим) */
 td.row-1 {
   background-color: #118f8f;
   color: #ffffff; 
@@ -81,7 +80,6 @@ td.row-1:hover {
   color: #000000;
 }
 
-/* Стилі для 2-го рядка (основний: #f5f511, при ховері стає #118f8f) */
 td.row-2 {
   background-color: #f5f511;
   color: #000000;
